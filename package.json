@@ -1,6 +1,7 @@
 {
   "name": "unit-tests",
   "version": "1.0.0",
+  "homepage": "https://gogadrz.github.io/find-pair-game",
   "description": "",
   "main": "index.js",
   "scripts": {
